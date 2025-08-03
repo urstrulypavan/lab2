@@ -1,1 +1,1 @@
-# lab2
+# typescript datatypes, functions
